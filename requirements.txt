@@ -1,0 +1,4 @@
+numpy>=1.21.0
+librosa>=0.9.0
+sounddevice>=0.4.5
+ttkbootstrap>=1.10.0 
