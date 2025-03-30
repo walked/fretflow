@@ -21,12 +21,11 @@ An interactive application to help guitarists learn and practice note positions 
 - Python 3.8 or higher
 - A working microphone/audio input device
 - The following Python packages:
-  - tkinter
-  - ttkbootstrap
-  - numpy
-  - sounddevice
-  - librosa
-  - queue
+  - tkinter (usually included with Python)
+  - ttkbootstrap >= 1.10.0
+  - numpy >= 1.21.0
+  - sounddevice >= 0.4.5
+  - librosa >= 0.9.0
 
 ## Installation
 
@@ -38,7 +37,7 @@ cd fretflow
 
 2. Install the required packages:
 ```bash
-pip install numpy sounddevice librosa ttkbootstrap
+pip install -r requirements.txt
 ```
 
 3. Run the application:
