@@ -31,7 +31,7 @@ An interactive application to help guitarists learn and practice note positions 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/fretflow.git
+git clone https://github.com/walked/fretflow.git
 cd fretflow
 ```
 
