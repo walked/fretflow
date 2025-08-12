@@ -86,7 +86,6 @@ The application uses your system's default audio input device. To change the inp
 3. Play notes clearly and allow them to ring
 4. Adjust your playing volume based on the volume indicator
 5. Use the "Show All Notes" feature to learn note positions
-6. Use the hint button if you're stuck
 
 ## Troubleshooting
 
@@ -138,4 +137,3 @@ SOFTWARE.
 
 - Built with ttkbootstrap for modern UI styling
 - Uses librosa for audio processing
-- Inspired by the need for interactive fretboard learning tools 
