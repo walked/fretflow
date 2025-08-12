@@ -100,10 +100,6 @@ The application uses your system's default audio input device. To change the inp
    - Reduce background noise
    - Try adjusting your distance from the microphone
 
-3. **Application not starting**:
-   - Verify all required packages are installed
-   - Check Python version compatibility
-   - Look for error messages in the console
 
 ## Contributing
 
