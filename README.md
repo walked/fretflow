@@ -12,7 +12,6 @@ An interactive application to help guitarists learn and practice note positions 
 - Two difficulty modes: Natural Notes Only and All Notes
 - Customizable string selection for focused practice
 - Visual volume indicator
-- Dark theme for reduced eye strain
 - Show/hide all note positions for reference
 - Hint system for learning
 
